@@ -1,3 +1,8 @@
+'''
+from passwd file Find out all the
+users that have the same UID.
+'''
+
 import collections
 
 file = open('/Users/aatishk/PycharmProjects/python_files/passwd')
