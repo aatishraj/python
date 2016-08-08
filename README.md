@@ -20,3 +20,6 @@ Sum the value of all 6th column numbers
 
 most_words.py:
 Find the wrod that occurs the most in a file.
+
+palindrome.py:
+Find all the Palindromes and sort them in ascending order.
