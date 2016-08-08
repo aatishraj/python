@@ -18,6 +18,3 @@ try:
         print fibonacci(series)
 except :
     print "Invalid Input. Try again."
-
-
-
