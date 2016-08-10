@@ -10,6 +10,7 @@ word_dict = {}
 for words in word_file:
     word_dict[words] = word_dict.get(words,0) + 1
 
+print word_dict.items()
 word_occur = None
 word_count = None
 
