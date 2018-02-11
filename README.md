@@ -23,3 +23,9 @@ Find the wrod that occurs the most in a file.
 
 palindrome.py:
 Find all the Palindromes and sort them in ascending order.
+
+priority_queue.py:
+Display the queue with the priority given first preference.
+
+partial_reverse.py:
+Reverse the items in list from the 2 index points given.
